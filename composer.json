@@ -1,5 +1,5 @@
 {
-  "name": "lalamove/php",
+  "name": "orderu/lalamove-php",
   "description": "Lalamove PHP Client",
   "require": {
     "php": ">=5.5",
